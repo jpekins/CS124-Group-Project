@@ -1,0 +1,110 @@
+#this file contains all the dictionary values for the words in our corpus
+cubre:cover,conceal,hide
+1:1
+1/2:1/2
+20-25:20-25
+3:3
+5:5
+a:to,at
+abajo:down,downstairs
+aluminio:aluminium
+ambiente:air,atmosphere,environment
+antes:beforesquash,crush
+aplasta:squash,crush
+aplastar:to squash,to crush
+armar:to arm,to assemble,put together
+arriba:above,up
+ayuda:help,assitance
+azucar:sugar
+bandeja:tray,loader
+bandejas:trays,loaders
+bolitas:marble,bobble
+borde:edge,border,rim,brink
+cada:each,every,such
+caiga:fall
+cajeta:caramel
+cierra:shut,close
+con:with
+contenedor:trash can,dumpster
+costado:side
+costados:sides
+cubiertas:covers,decks
+cubre:cover,conceal,hide
+cucharadas:spoonful
+cuidado:careful
+dales:give,hand
+de:from
+deja:let,allow,leave,abandon
+del:from the,of the
+despues:after,awterwards
+dias:days
+disfrutalas:enjoy them
+dobla:fold,double,bend
+doraditas:golden brown
+dos:two
+duracion:duration
+el:he,the
+empanadas:empanadas
+en:in,inside,on,on top of
+enfriar:cool,chill
+es:is,be
+este:this,east
+guardarlas:guard them
+hacia:towards,to,around
+hasta:until,as far as,even,up til
+hermetico:inscrutable,secretive,airtight
+hornea:bake,roast
+hornean:bake them,roast them
+hornear:bake,roast
+la:the,it
+lado:side,place
+las:the
+leves:weigh
+lista:ready,list,intelligent,strip
+los:the
+manten:maintain,affirm,stick to,support,adhere to
+mas:more,plus,but
+masa:mass,dough
+mezcla:mix,mixture,mortar
+mezclas:mixes
+mientras:while,meanwhile,whereas
+minutos:minutes,moments
+moreno:dark skinned,tanned,brown
+mover:move,shake
+no:no
+o:or
+pacanas:pecans
+palmaditas:pats,taps
+papel:paper,role
+para:for,in order to
+pasa:raisin,go,proceed
+pegue:give,hit,strike
+plato:plate,serving
+poco:little
+por:for,because of,by
+probable:probable
+profundo:deep,profound
+puedes:can,be able to
+puntas:tip,point,sharp end
+que:who,that,which,whom
+queden:remain,left
+quizas:perhaps,maybe
+recipiente:pan,container
+rellenalas:stuffed,fat
+se:himself
+sequen:dry
+servir:to serve,to work in
+tambien:also
+temperatura:temperature
+tengas:has
+tibias:warm,tibias
+tienen:have,must
+todo:all,every
+tortillera:lesbian
+un:a
+una:a
+unos:some
+utilizar:utilize,use
+usted:you
+vez:time,turn,place
+y:and 

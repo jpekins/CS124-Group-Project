@@ -1,0 +1,19 @@
+Google vs Gold:
+
+115
+
+Beginning:
+
+360 - 400
+
++POS-Tagging(JJ/NN <- NN/JJ):
+
+384 - 404
+
++Laplace Bigram Modeling:
+
+350
+
++Replace se with usted:
+
+348
